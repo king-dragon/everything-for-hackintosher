@@ -15,7 +15,7 @@ KHO BÁU này bao gồm:
 
 🟡  EFI_sưu-tầm_laptop_opencore (các efi laptop cho các loại chip intel từ gen 2 ⇒ gen 10)
 
-🟡  opencore_patch_full (các efi đã patch full trong quá trình mình support | anh em sử dụng thiếu gì thì patch thêm)
+🟡  Opencore_patch_full (các efi đã patch full trong quá trình mình support | anh em sử dụng thiếu gì thì patch thêm)
 
 🟤  EFI_opencore_intel nuc (các efi intel nuc laptop)
 
