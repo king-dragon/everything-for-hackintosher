@@ -28,6 +28,9 @@ KHO BÁU này bao gồm:
 
 👑👑Chúc anh em hackintosh thành công và có những trải nghiệm tuyệt vời cùng KHO BÁU CỦA CÁC HACKINTOSHER 👑👑
 Facebook của bọn mình
+
 https://www.facebook.com/hungha289 ( facebook của bác Hà Phước Hưng )
+
 https://www.facebook.com/profile.php?id=100070274020733 ( face book của mình )
+
 https://www.facebook.com/BeMapChannel ( facebook của bác Minh Khang )
