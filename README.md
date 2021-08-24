@@ -27,7 +27,7 @@ KHO BÁU này bao gồm:
 
 🟢 Tổng hợp các lỗi khi boot Opencore (tổng hợp các lỗi phổ biến khi boot opencore và cách xử lý)
 
-👶 Hướng dẫn cho newbie (hy vọng giúp ích cho các bạn newbie 😉)
+👶 Hướng dẫn cho newbie (hy vọng giúp ích cho các bạn newbie 😉 )
 
 🤖 Các code hackintosh (bổ trợ cho file “tổng hợp những cách fix lỗi sau khi đã cài thành công hackintosh Opencore”)
 
