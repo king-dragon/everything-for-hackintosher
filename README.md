@@ -38,6 +38,7 @@ KHO BÁU này bao gồm:
 🇻🇳🇻🇳Trong từng mục cụ thể đều có hướng dẫn sử dụng chi tiết bằng TIẾNG VIỆT, anh em chỉ cần đọc và làm đúng theo hướng dẫn là 90% ăn nha ( 10% hên xui )
 
 👑👑Chúc anh em hackintosh thành công và có những trải nghiệm tuyệt vời cùng KHO BÁU CỦA CÁC HACKINTOSHER 👑👑
+
 Facebook của bọn mình
 
 https://www.facebook.com/hungha289 ( facebook của bác Hà Phước Hưng )
