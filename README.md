@@ -10,16 +10,27 @@
 KHO BÁU này bao gồm: 
 
 🔴 Patch rehabman laptop (đề phòng links của rehabman sập)
+
 🔴 Fix trackpad (đề phòng links trackpad elan sập)
+
 🟡 EFI_sưu-tầm_laptop_opencore (các efi laptop cho các loại chip intel từ gen 2 ⇒ gen 10)
+
 🟡 Opencore_patch_full (các efi đã patch full trong quá trình mình support | anh em sử dụng thiếu gì thì patch thêm)
+
 🟤 EFI_opencore_intel nuc (các efi intel nuc laptop)
+
 🟤 EFI Clover & Clover Bootloader (EFI này dùng để dualboot không có tính năng boot clover)
+
 🟢 Các tool Hackintosh (tổng hợp các tool hay và hữu ích cho việc hackintosh có 1 số tool đã mất tích mình cũng tổng hợp vào đây)
+
 🟢 Tổng hợp những cách fix lỗi sau khi đã cài thành công Hackintosh Opencore (tổng hợp hầu hết các lỗi sau khi cài hackintosh và các patch hữu ích | do mình , bác Hà Phước Hưng và bác Minh Khang cùng hoàn thiện )
+
 🟢 Tổng hợp các lỗi khi boot Opencore (tổng hợp các lỗi phổ biến khi boot opencore và cách xử lý)
+
 👶 Hướng dẫn cho newbie (hy vọng giúp ích cho các bạn newbie 😉)
+
 🤖 Các code hackintosh (bổ trợ cho file “tổng hợp những cách fix lỗi sau khi đã cài thành công hackintosh Opencore”)
+
 💻 Patch laptop HP (1 số laptop HP muốn hackintosh các bạn bắt buộc phải add patch này)
 
 🔁 Tất cả các file được sao lưu để đảm bảo anh em vẫn truy cập được kể cả link gốc đã bị sập. 
