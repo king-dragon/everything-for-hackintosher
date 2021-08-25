@@ -1,7 +1,7 @@
 # everything-for-hackintosher
 👑👑 KHO BÁU CỦA CÁC HACKINTOSHER  👑👑
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿  Anh em dù mới cài hackintosh hay đã cài và sử dụng một thời gian thì hẳn vẫn có những vấn đề mà không biết hỏi ai. Những hướng dẫn trên mạng chủ yếu là tiếng ANH, dù có đọc hiểu được thì cũng hoa cả mắt. Vì vậy mình có tạo 1 hướng dẫn bằng tổng hợp hy vọng giúp ích được cho các hackintosher
+🏴󠁧󠁢󠁥󠁮󠁧󠁿  Anh em dù mới cài hackintosh hay đã cài và sử dụng một thời gian thì hẳn vẫn có những vấn đề mà không biết hỏi ai. Những hướng dẫn trên mạng chủ yếu là tiếng ANH, dù có đọc hiểu được thì cũng hoa cả mắt. Vì vậy mình có tạo 1 hướng dẫn  tổng hợp hy vọng giúp ích được cho các hackintosher
 
 🇻🇳🇻🇳 Hướng dẫn này tạo ra  BẰNG TIẾNG VIỆT, thực hiện CHO NGƯỜI VIỆT, BỞI NGƯỜI VIỆT VÀ VÌ NGƯỜI VIỆT. 
 
